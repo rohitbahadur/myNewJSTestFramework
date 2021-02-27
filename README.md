@@ -1,0 +1,2 @@
+# myNewJSTestFramework
+Jest based framework
